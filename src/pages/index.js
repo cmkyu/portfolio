@@ -46,7 +46,7 @@ const Home = () => {
                 Resume
             </Button>
             <Button 
-                href="https://github.com/ChangMarkusYu"
+                href="https://github.com/cmkyu"
                 target="_blank"
                 rel="noreferrer"
                 variant="outlined"
